@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/faniabdullah/premierLeague--lite)
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fpremierleague--lite.web.app%2F)
 
-Premier league lite is a football progressive web app (PWA) that show litte information for premier league football. Developed as a submission for Dicoding's "Membangun Progressive Web Apps" course. Check the live [here]((https://premierleague--lite.web.app/)
+Premier league lite is a football progressive web app (PWA) that show litte information for premier league football. Developed as a submission 3 for Dicoding's "Membangun Progressive Web Apps" course. Check the live [here]((https://premierleague--lite.web.app/)
 
 
 <div>
@@ -17,13 +17,13 @@ Premier league lite is a football progressive web app (PWA) that show litte info
 
 ## Features
 * **Available offline**,
-You can still access the web without internet connection (make sure you've already load the web for atleast 1 time before)
+You can still access the web without internet connection (make sure you've already load the web for atleast 1 time before).
 
 * **Save favorite team**,
-you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right)
+you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right).
 
 * **Dark - Light Mode**,
-You can change the dark / light theme
+You can change the dark / light theme.
 
 ## Built with
 * [Materialize CSS](https://materializecss.com/)
