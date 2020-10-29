@@ -23,11 +23,12 @@ You can still access the web without internet connection (make sure you've alrea
 you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right)
 
 * **Dark - Light Mode**,
-you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right)
+You can change the dark / light theme
 
 ## Built with
 * [Materialize CSS](https://materializecss.com/)
 * [Workbox](https://developers.google.com/web/tools/workbox)
+* [Webpack](https://webpack.js.org/)
 
 ## Installation
 To get started, Install npm then run commands below, `dist` folder will be generated after that.
