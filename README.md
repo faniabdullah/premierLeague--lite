@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/faniabdullah/premierLeague--lite)
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fpremierleague--lite.web.app%2F)
 
-Premier league lite is a football progressive web app (PWA) that show litte informasion for premier league football. Developed as a submission for Dicoding's "Membangun Progressive Web Apps" course. Check the live [here]((https://premierleague--lite.web.app/)
+Premier league lite is a football progressive web app (PWA) that show litte information for premier league football. Developed as a submission for Dicoding's "Membangun Progressive Web Apps" course. Check the live [here]((https://premierleague--lite.web.app/)
 
 
 <div>
