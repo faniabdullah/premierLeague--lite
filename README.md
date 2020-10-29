@@ -22,6 +22,9 @@ You can still access the web without internet connection (make sure you've alrea
 * **Save favorite team**,
 you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right)
 
+* **Dark - Light Mode**,
+you can save your favorite team with one click, your favorites will be shown on the favorite tab (Love icon on the top right)
+
 ## Built with
 * [Materialize CSS](https://materializecss.com/)
 * [Workbox](https://developers.google.com/web/tools/workbox)
